@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="202630ce-41ee-4dd8-ab96-4a87d9f4bf34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library_App.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LibrarianController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="202630ce-41ee-4dd8-ab96-4a87d9f4bf34" name="Changes" comment="resolved minor warnings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="2T1XcnhogWMS6CkGeDBb7hEZP6E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,6 +69,28 @@
       <option name="presentableId" value="Default" />
       <updated>1690211644850</updated>
     </task>
+    <task id="LOCAL-00001" summary="added app files">
+      <option name="closed" value="true" />
+      <created>1690971848617</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690971848617</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resolved minor warnings">
+      <option name="closed" value="true" />
+      <created>1690972031049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690972031049</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added app files" />
+    <MESSAGE value="resolved minor warnings" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolved minor warnings" />
   </component>
 </project>
