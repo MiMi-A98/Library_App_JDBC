@@ -44,7 +44,7 @@ public class Database {
             statement.close();
             connection.close();
         } catch (Exception e) {
-            System.out.println(e);
+            System.out.println(e.getMessage());
         }
         return credentialsFound;
     }
@@ -64,7 +64,7 @@ public class Database {
             statement.close();
             connection.close();
         } catch (Exception e) {
-            System.out.println(e);
+            System.out.println(e.getMessage());
         }
         return credentialsFound;
     }
