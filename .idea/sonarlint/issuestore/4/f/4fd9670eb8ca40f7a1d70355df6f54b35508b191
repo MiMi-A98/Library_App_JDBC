@@ -1,0 +1,110 @@
+
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²È¼çJ$b19170b2-3a05-488c-9a91-dc0dd6d26c8f
+v
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿJ$444e555f-b3f0-44b3-a84e-90623ed9a37c
+Š
+java:S2259ë"HA "NullPointerException" could be thrown; "connection" is nullable here.(­Úø‹şÿÿÿÿJ$d339b8b0-7dce-4b13-82e6-326ff2c9fde1
+„
+java:S2259$"HA "NullPointerException" could be thrown; "connection" is nullable here.(Ë¹ŠŞJ$48073e18-0b5d-49a6-90a6-a2def36e25ba
+…
+java:S2259§"HA "NullPointerException" could be thrown; "connection" is nullable here.(ïÃëÕJ$3d9fb7c1-8f5c-4b8d-b646-b9ad84135a76
+…
+java:S2259Ù"HA "NullPointerException" could be thrown; "connection" is nullable here.(ïÃëÕJ$f81ffdff-75e1-4761-8873-5c173b928a7d
+…
+java:S2259’"HA "NullPointerException" could be thrown; "connection" is nullable here.( ÊÍÚJ$c5ff1cc7-07b3-447e-8a64-77fea3b38982
+‰
+java:S22598"HA "NullPointerException" could be thrown; "connection" is nullable here.(æÙ½ùÿÿÿÿJ$52345ba7-4588-4c26-818c-3787aa56b472
+‰
+java:S2259_"HA "NullPointerException" could be thrown; "connection" is nullable here.(ıß™ˆøÿÿÿÿJ$e84e15d2-4063-4973-abe3-7ee390bd6fe2
+…
+java:S2259—"HA "NullPointerException" could be thrown; "connection" is nullable here.(Í¸ÅJ$cd2fe0ee-cbe7-4b1a-9a83-697e255d8608
+Š
+java:S2259„"HA "NullPointerException" could be thrown; "connection" is nullable here.(ª˜ÑÇÿÿÿÿÿJ$86abe333-c593-4830-a332-2edc70697cd0
+Š
+java:S2259­"HA "NullPointerException" could be thrown; "connection" is nullable here.(Ïó±†üÿÿÿÿJ$a1531b52-6286-4c24-b00f-adac25f78e3f
+…
+java:S2259Æ"HA "NullPointerException" could be thrown; "connection" is nullable here.(ïÃëÕJ$324e8bb2-0bf1-4d79-a9fe-de0666d96b23
+…
+java:S2259Ò"HA "NullPointerException" could be thrown; "connection" is nullable here.(Çÿ´ğJ$5c0723ef-088d-4a5e-950a-a5b9725c66f4
+„
+java:S2259L"HA "NullPointerException" could be thrown; "connection" is nullable here.(Ã´°¦J$d820e2f8-1fb5-464b-88d2-2a3384a2e45d
+…
+java:S2259¼"HA "NullPointerException" could be thrown; "connection" is nullable here.(Š‘ÇJ$2ce6598a-5759-4edb-96d2-8cbec704c750
+‰
+java:S2259v"HA "NullPointerException" could be thrown; "connection" is nullable here.(óà¦ºşÿÿÿÿJ$0669ab0f-56e1-4088-a48e-4e6d77b3f7df
+Š
+java:S2259ı"HA "NullPointerException" could be thrown; "connection" is nullable here.(ô¿ÙˆûÿÿÿÿJ$5ce528cf-85e2-4992-bfe1-ba21b9cf3940
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒéüÿÿÿÿJ$f23d3260-cfd1-4d09-bf2a-9cc35e49acfa
+ˆ
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(æ‘’J$4a1671a4-da13-4898-ab1d-967cb6689009
+‹
+java:S2095L"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã´°¦J$8484a8a2-a301-4574-8a1c-57cf2ecb1346
+Œ
+java:S2095Ù"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïÃëÕJ$c24d547c-528d-4cdf-adb7-e8ca6e0e65cc
+‘
+java:S2095ë"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(­Úø‹şÿÿÿÿJ$26baac4b-30f2-4e72-9059-7eb2eb3c77ca
+
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıß™ˆøÿÿÿÿJ$a0e39294-75c6-4ce9-ae41-6387f41de452
+
+java:S2095v"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(óà¦ºşÿÿÿÿJ$720db853-d11f-4a7e-8af8-2c67646f080c
+
+java:S20958"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(æÙ½ùÿÿÿÿJ$9835b7b9-ec1c-44b5-b2b0-8c4ce00ca9e4
+Œ
+java:S2095’"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( ÊÍÚJ$85bf518c-e23b-4b4e-9769-fdeecfc3e451
+Œ
+java:S2095¼"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Š‘ÇJ$fba97b3d-368a-4807-a1be-67187a0aadaa
+Œ
+java:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Í¸ÅJ$8a7d00f5-fab4-4fc3-9192-3b5aacdf1b9c
+‘
+java:S2095­"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ïó±†üÿÿÿÿJ$dd38ff39-d56a-40a0-b37a-1d6be8e33772
+‹
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ë¹ŠŞJ$7492eb0a-ef98-486b-9533-2ea0bba6365a
+‘
+java:S2095ı"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ô¿ÙˆûÿÿÿÿJ$e5637f3c-6134-4af4-ac79-e218efc2bc0d
+Œ
+java:S2095Æ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïÃëÕJ$134bac73-65d9-4dfb-b8fa-3456a6720df8
+Œ
+java:S2095Ò"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Çÿ´ğJ$3f74518b-ecf5-4e15-ae0c-5c89344ad5e8
+Œ
+java:S2095§"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ïÃëÕJ$4f401b0f-131e-46fe-82d1-3e6b03768f2c
+‘
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª˜ÑÇÿÿÿÿÿJ$e49bf05a-35b4-44bb-8048-238399b74d3d
+k	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$943d8bd9-a96d-4609-9323-a0f5e734bb5b
+k	java:S106/"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$f460f69d-213a-4900-b41c-b25d73d30fd2
+k	java:S106C"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$3647342f-da67-4b1c-bb2b-35fb36cf512f
+k	java:S106W"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$f35dbff8-26d6-4195-9433-6ef9f52cf2ce
+`
+java:S6905_"Don't use the query "SELECT *".(ıß™ˆøÿÿÿÿJ$45837f14-d4f6-4236-93c7-9901a42d84c6
+f	java:S106h"+Replace this use of System.out by a logger.(ĞÄàJ$558c9dd2-14de-446d-b050-cb6d9a8f4c3b
+k	java:S106o"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$f21c1851-c6d8-47f7-9df2-028fbb14441e
+k	java:S106}"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$a3b01890-d5f2-43c6-967e-3063ab96e854
+l	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$c7a01af2-9854-4dd7-8211-5c5a01fc03c0
+\
+java:S6905—"Don't use the query "SELECT *".(Í¸ÅJ$148ae599-003a-4eaf-abc1-2f83805d8772
+l	java:S106¢"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$c59ee983-5fbb-47af-922c-e841cdb0b4c9
+i
+java:S1125¤"'Remove the unnecessary boolean literal.(Œ·®İÿÿÿÿÿJ$b1b227d3-bfd5-4f79-95ad-45d92b2e4f65
+l	java:S106¥"+Replace this use of System.out by a logger.(³’ŠùÿÿÿÿJ$846f5624-13a0-45be-9008-68fdf2d3d4c3
+a
+java:S6905­"Don't use the query "SELECT *".(Ïó±†üÿÿÿÿJ$46a03604-2cbe-42f6-9e32-7fba605dac5a
+l	java:S106¸"+Replace this use of System.out by a logger.(ŸÏÓ‡ıÿÿÿÿJ$a2611e29-3cd3-4ded-9306-21d794c71762
+l	java:S106¿"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$d11c38a1-038c-4dac-a6da-7e293a03bdd3
+l	java:S106Ò"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$8c29bcba-eee5-44a2-ac3e-6ff320beb401
+l	java:S106ä"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$937db7b4-af44-40a0-a83a-b0543c1e61d8
+l	java:S106õ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$b03c73a5-7853-4573-abae-a77251a290bf
+a
+java:S6905ı"Don't use the query "SELECT *".(ô¿ÙˆûÿÿÿÿJ$39495051-2220-49a3-aa0f-dd89a6a9d77e
+l	java:S106‡"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$a94c6c09-ce0f-4ca1-a51b-da9dd9fbb353
+i
+java:S1125‰"'Remove the unnecessary boolean literal.(úœÌ¡øÿÿÿÿJ$ce3c0e40-7eb3-42f6-b626-6fccae235ccd
+g	java:S106Š"+Replace this use of System.out by a logger.(ªúÔ¾J$025e7421-4f5a-4ef8-bf18-3e2394d3b2b8
+\
+java:S6905’"Don't use the query "SELECT *".( ÊÍÚJ$be956829-7ab6-4eac-94a0-e819172f40c6
+l	java:S106š"+Replace this use of System.out by a logger.(™ÓØ¦ùÿÿÿÿJ$5b7d2035-aa9f-404a-be10-6a0fb93c1e31
+l	java:S106 "+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$e8cacb5e-c325-40f8-a8eb-f99be2dd70cd
+l	java:S106µ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$d437ea7d-68be-4812-a165-f87426a41a64
+\
+java:S6905¼"Don't use the query "SELECT *".(Š‘ÇJ$5f3d5f63-b908-4ee4-8ab8-d928a93f9fb3
+g	java:S106Ä"+Replace this use of System.out by a logger.(ÿº‰J$18d0eb42-2667-4939-bcc5-3dd002894e7a
+l	java:S106Ë"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$943d0e71-6970-4af3-90ca-10b73dc795a7
+l	java:S106Ú"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$8485df02-7ab8-49d2-951a-0595065537d0
